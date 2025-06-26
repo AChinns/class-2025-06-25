@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Census Tracts",
     "section": "",
-    "text": "Rows: 2,242\nColumns: 3\n$ tract      &lt;chr&gt; \"Census Tract 1.01; Queens County; New York\", \"Census Tract…\n$ race       &lt;chr&gt; \"White\", \"White\", \"Black\", \"White\", \"Hispanic\", \"Black\", \"B…\n$ med_income &lt;dbl&gt; 124885, 213750, NA, 109352, 23658, 83872, 106250, 140521, 4…"
+    "text": "Census tracts in New York City are small, relatively permanent geographic units created by the U.S. Census Bureau to provide detailed demographic data. There are 4,919 tracts across the five boroughs—each typically representing neighborhoods with 1,200 to 8,000 residents. These tracts are used for analyzing population characteristics like race, income, age, and housing, and they play a vital role in urban planning, policy-making, and social research. NYC agencies and researchers rely on tract-level data to study everything from gentrification and poverty to health disparities and environmental justice. The data is publicly available through platforms like NYC Open Data and the Census Bureau."
   },
   {
     "objectID": "about.html",
