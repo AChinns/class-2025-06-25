@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Census Tracts",
+    "section": "",
+    "text": "Rows: 2,242\nColumns: 3\n$ tract      &lt;chr&gt; \"Census Tract 1.01; Queens County; New York\", \"Census Tract…\n$ race       &lt;chr&gt; \"White\", \"White\", \"Black\", \"White\", \"Hispanic\", \"Black\", \"B…\n$ med_income &lt;dbl&gt; 124885, 213750, NA, 109352, 23658, 83872, 106250, 140521, 4…"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
